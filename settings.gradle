@@ -1,0 +1,5 @@
+rootProject.name = 'gpparent'
+include 'common'
+include 'dockerweb'
+include 'nginxsb'
+
